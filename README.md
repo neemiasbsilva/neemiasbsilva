@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello everyone 👋
 
+
+<p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="55%" height="45%"></p> 
+
+I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato Grosso do Sul :school:](https://www.ufms.br).
 <!--
 **neemiasbsilva/neemiasbsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
