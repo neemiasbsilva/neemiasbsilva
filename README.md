@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> 
 
-I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato Grosso do Sul :school:](https://www.ufms.br). I'm enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scienctist, Software Engineer. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch), Web Frameworks (Django, Flask), and Databases (MySQL, NoSQL). Currently learning about Machine Learning (non-supervised learning).
+I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato Grosso do Sul :school:](https://www.ufms.br). I'm enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scienctist and Software Engineer. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch), Web Frameworks (Django, Flask), and Databases (MySQL, NoSQL). Currently learning about Machine Learning (non-supervised learning).
 
 
 ## Programming Languages :computer:
