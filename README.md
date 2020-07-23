@@ -8,12 +8,12 @@ I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato 
 
 ## Programming Languages :computer:
 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width="20%" height="10%"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="20%" height="10%"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width="8%" height="10%">
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width="8%" height="10%"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="8%" height="10%"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width="8%" height="10%">
 
 
 ## Frameworks :rocket:
 
-<img src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg" width="8%" height="10%"> <img src="https://keras.io/img/logo.png" width="8%" height="10%"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%">
+<img src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg" width="20%" height="10%"> <img src="https://keras.io/img/logo.png" width="20%" height="10%"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%">
 
 
 
