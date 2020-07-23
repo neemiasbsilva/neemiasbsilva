@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="55%" height="45%"></p> 
+<p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="35%" height="35%"></p> 
 
 I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato Grosso do Sul :school:](https://www.ufms.br).
 <!--
