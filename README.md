@@ -8,7 +8,7 @@ I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato 
 
 ## Programming Languages :computer:
 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width="8%" height="10%"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="8%" height="10%"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width="8%" height="10%">
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width="8%" height="10%"></a> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="8%" height="10%"> <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width="8%" height="10%">
 
 
 ## Frameworks :rocket:
