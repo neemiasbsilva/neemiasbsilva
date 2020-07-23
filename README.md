@@ -1,4 +1,4 @@
-### Hello everyone 👋
+# Hello everyone 👋
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></p> 
@@ -6,7 +6,9 @@
 I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato Grosso do Sul :school:](https://www.ufms.br). I'm enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on backend, API's of Machine Learning (TensorFlow, Keras, Pytorch), others API's (Django, Flask), Databases and currently learning about Machine Learning, Math, and Statistic.
 
 
+## Programming Languages :computer:
 
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width="10%" height="10%"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="10%" height="10%"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width="10%" height="10%">
 
 <!--
 **neemiasbsilva/neemiasbsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
