@@ -13,7 +13,8 @@ I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato 
 
 ## Frameworks :rocket:
 
-<img src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg" width="20%" height="10%"> <img src="https://keras.io/img/logo.png" width="20%" height="10%"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%">
+<a href="https://www.tensorflow.org"><img src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg" width="20%" height="10%"></a> <a href="https://keras.io"><img src="https://keras.io/img/logo.png" width="20%" height="10%"></a> <a href="https://pytorch.org"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%"></a>
+
 
 
 
@@ -21,6 +22,7 @@ I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato 
 
 <!--
 **neemiasbsilva/neemiasbsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools :fire:
 
 Here are some ideas to get you started:
 
