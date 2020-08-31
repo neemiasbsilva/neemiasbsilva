@@ -5,6 +5,9 @@
 
 I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato Grosso do Sul :school:](https://www.ufms.br). I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist and Software Engineer. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch, Scikit-learn), Web Frameworks (Django, Flask), and Databases (MySQL, Firebase). Currently learning about Machine Learning (unsupervised learning - PCA).
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&show_icons=true&theme=dark)
+
+
 
 ## Programming Languages :computer:
 
