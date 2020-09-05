@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> 
 
-I'm Neemias and currently a Last Year CSE student at [Federal Universit of Mato Grosso do Sul :school:](https://www.ufms.br). I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist and Software Engineer. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch, Scikit-learn), Web Frameworks (Django, Flask), and Databases (MySQL, Firebase). Currently learning about Machine Learning (unsupervised learning - PCA).
+I'm **Neemias Bucéli da Silva** and currently a Last Year CSE student at [Federal Universit of Mato Grosso do Sul :school:](https://www.ufms.br). I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist and Software Engineer. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch, Scikit-learn), Web Frameworks (Django, Flask), and Databases (MySQL, Firebase). Currently learning about Machine Learning (unsupervised learning - PCA).
 
 <!--![Neemias github stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&theme=dark&show_icons=true)-->
 ![neemiasbsilva's github stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&hide=contribs,issues&show_icons=true&line_height=21&theme=graywhite)
