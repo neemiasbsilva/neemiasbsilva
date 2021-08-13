@@ -16,7 +16,7 @@ My name is **Neemias Bucéli da Silva**, I'm Bachelor Degree in Computer Science
 
 ## Frameworks :rocket:
 
-<a href="https://www.tensorflow.org"><img src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg" width="30%" height="10%"></a> <a href="https://keras.io"><img src="https://keras.io/img/logo.png" width="23%" height="10%"></a> <a href="https://pytorch.org"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%"></a>
+<a href="https://www.tensorflow.org"><img src="https://www.gstatic.com/devrel-devsite/prod/v0089c83aa8227c3439bf2708c0795dd13db533711d44eb626e640152d9fdf05e/tensorflow/images/lockup.svg" width="30%" height="10%"></a> <a href="https://keras.io"><img src="https://keras.io/img/logo.png" width="23%" height="10%"></a> <a href="https://pytorch.org"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%"></a>
 
 <!--
 ## Frameworks Learning: :book:
