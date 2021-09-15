@@ -11,36 +11,47 @@ My name is **Neemias Bucéli da Silva**, I'm Bachelor Degree in Computer Science
 
 ## Programming Languages :computer:
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width="9%" height="10%"></a> <a href="https://www.cplusplus.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="8%" height="10%"></a> <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width="9%" height="10%"></a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-## Frameworks :rocket:
 
-<a href="https://www.tensorflow.org"><img src="https://www.gstatic.com/devrel-devsite/prod/v0089c83aa8227c3439bf2708c0795dd13db533711d44eb626e640152d9fdf05e/tensorflow/images/lockup.svg" width="30%" height="10%"></a> <a href="https://keras.io"><img src="https://keras.io/img/logo.png" width="23%" height="10%"></a> <a href="https://pytorch.org"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%"></a>
+## Machine Learning / Deep Learning ⚙️
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <!--
 ## Frameworks Learning: :book:
 <a href="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" width="8%" height="5%"></a>-->
   
-## Tools & Platforms :fire:
-<a href="https://github.com"><img src="https://camo.githubusercontent.com/2c3a10f57365a330cc092e2c32942ff28474495a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6769746875622d2d696d616765732e61707073706f742e636f6d2f6f2f476974687562253230696d6167657325324632353233312e7376673f616c743d6d6564696126746f6b656e3d65663262653632372d303461362d346638302d616662612d626632323432383164333561" width="8%" height="10%"></a> <a href="https://code.visualstudio.com"><img src="https://camo.githubusercontent.com/5945b84c1aea557415c0db91ce8bff3e52ed9e51/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6769746875622d2d696d616765732e61707073706f742e636f6d2f6f2f476974687562253230696d616765732532466c6f676f2d737461626c652e706e673f616c743d6d6564696126746f6b656e3d38386137636237392d666538362d343661622d623639312d303564323130313331613939" width="8%" height="10%"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="8%" height="10%"></a> <a href="https://www.egi.eu/use-cases/scientific-applications-tools/the-jupyter-notebook/"><img src="https://www.egi.eu/wp-content/uploads/2017/04/project_jupyter.png" width="8%" height="10%"></a>
-<a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" width="30%" height="10%"></a>
-<!-- <a href="https://docs.conda.io/en/latest/"><img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" width="35%" height="10%"></a> <a href="https://trello.com"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1280px-Trello_logo.svg.png" width="25%" height="10%"></a>
--->
+## Others (IDEs, version control, cloud, agile, etc.) 💡
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
-**neemiasbsilva/neemiasbsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Tools :fire:
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-Here are some ideas to get you started:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
