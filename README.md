@@ -3,13 +3,13 @@
 
 <p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> 
 
-My name is **Neemias Bucéli da Silva**, I'm Bachelor Degree in Computer Science and currently work of Machine Learning Developer at [PhoneTrack :office:](https://www.phonetrack.com.br) . I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist and Software Engineer. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch, Scikit-learn), Web Frameworks (Django, Flask), and Databases (MySQL, Firebase). Currently learning about Machine Learning (unsupervised learning - PCA), Computer Vision (Face Recognition), Speech Analytics, Natural Language Processing, Statistics for Data Scientist, and other areas of Data Science.
+My name is **Neemias Bucéli da Silva**, I'm Bachelor Degree in Computer Science and currently work of Machine Learning Engineering Developer at [PhoneTrack :office:](https://www.phonetrack.com.br) . I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist and Software Engineer. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch, Scikit-learn), Web Frameworks (Django, Flask), and Databases (MySQL, Firebase). Currently learning about Machine Learning (unsupervised learning - PCA), Computer Vision (Face Recognition), Speech Analytics, Natural Language Processing, Statistics for Data Scientist, and other areas of Data Science.
 
 <!--![Neemias github stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&theme=dark&show_icons=true)-->
 ![neemiasbsilva github stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&show_icons=true&line_height=31&theme=graywhite)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neemiasbsilva&layout=compact&theme=dark&line_height=21)-->
 
-## Programming Languages :computer:
+## Programming Languages 👨‍💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
