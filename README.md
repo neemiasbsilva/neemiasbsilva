@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> 
 
-My name is **Neemias Bucéli da Silva**, I'm Bachelor Degree in Computer Science and currently work as Data Scientis at [PhoneTrack :office:](https://www.phonetrack.com.br). I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist and Machine Learning Engineer. Some API's of Machine Learning I use are: Scikit-learn, TensorFlow, Keras and Pytorch. Web Frameworks: Django, Flask. Databases: MySQL, BigQuery. 
+My name is **Neemias Bucéli da Silva**, I'm Bachelor Degree in Computer Science and currently work as Data Scientis at [PhoneTrack :office:](https://www.phonetrack.com.br). I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist and Machine Learning Engineer. Some FrameWorks of Machine Learning I use are: Scikit-learn, TensorFlow, Keras and Pytorch. Web Frameworks: Django, Flask. Databases: MySQL, BigQuery. 
 
 <!--Currently learning about Machine Learning (unsupervised learning - PCA), Computer Vision (Face Recognition), Speech Analytics, Natural Language Processing, Statistics for Data Scientist, and other areas of Data Science.-->
 
