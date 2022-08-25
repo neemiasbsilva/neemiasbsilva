@@ -1,15 +1,14 @@
 # Hello everyone 👋
 
 
-<p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> 
+<!--<p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> -->
 
-My name is **Neemias Bucéli da Silva**, I'm Bachelor Degree in Computer Science and currently work as Data Scientis at [PhoneTrack :office:](https://www.phonetrack.com.br). I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist and Machine Learning Engineer. Some FrameWorks of Machine Learning I use are: Scikit-learn, TensorFlow, Keras and Pytorch. Web Frameworks: Django, Flask. Databases: MySQL, BigQuery. 
+Welcome to my GitHub profile. If you don't know me, my name is **Neemias** and I'm an enthusiast of Data Science. I currently work as Data Scientist and I Master's Degree Candidate. Feel free to explore some personal open-source projects.
 
-<!--Currently learning about Machine Learning (unsupervised learning - PCA), Computer Vision (Face Recognition), Speech Analytics, Natural Language Processing, Statistics for Data Scientist, and other areas of Data Science.-->
 
-<!--![Neemias github stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&theme=dark&show_icons=true)-->
-![neemiasbsilva github stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&show_icons=true&line_height=31&theme=graywhite)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neemiasbsilva&layout=compact&theme=dark&line_height=21)-->
+![Neemias GitHub stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&show_icons=true&line_height=31&theme=monokai)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neemiasbsilva&layout=compact&theme=monokai)](https://github.com/neemiasbsilva/github-readme-stats)
 
 ## Programming Languages 👨‍💻
 
