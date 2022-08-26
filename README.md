@@ -8,7 +8,7 @@ Welcome to my GitHub profile. If you don't know me, my name is **Neemias** and I
 
 ![Neemias GitHub stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&show_icons=true&line_height=31&theme=monokai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neemiasbsilva&layout=compact&theme=monokai)](https://github.com/neemiasbsilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neemiasbsilva&layout=compact&theme=monokai&hide=javascript,html,css,tex,fortran)](https://github.com/neemiasbsilva/github-readme-stats)
 
 ## Programming Languages 👨‍💻
 
