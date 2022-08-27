@@ -5,10 +5,14 @@
 
 Welcome to my GitHub profile. If you don't know me, my name is **Neemias** and I'm an enthusiast of Data Science. I currently work as Data Scientist and I Master's Degree Candidate. Feel free to explore some personal open-source projects.
 
-
 ![Neemias GitHub stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&show_icons=true&line_height=31&theme=monokai)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neemiasbsilva&layout=compact&theme=monokai&hide=javascript,html,css,tex,fortran)](https://github.com/neemiasbsilva/github-readme-stats)
+
+## Contacts
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 ## Programming Languages 👨‍💻
 
@@ -56,3 +60,6 @@ Welcome to my GitHub profile. If you don't know me, my name is **Neemias** and I
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/neemias-buceli/
