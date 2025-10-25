@@ -3,7 +3,7 @@
 
 <!--<p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> -->
 
-Welcome to my GitHub profile. If you don't know me, my name is **Neemias** and I'm an enthusiast of Data Science and some nerd stufs. I currently work as Data Scientist and I Master's Degree Candidate. Feel free to explore some personal open-source projects.
+Welcome to my GitHub profile. If you don't know me, my name is **Neemias** and I'm an enthusiast of Data Science and some nerd stufs. I currently work as Data Scientist and I have completed my Master's Degree in the Postgraduate Program in Electrical Engineering and Industrial Informatics at the Federal University of Technology - Paraná (UTFPR). My research focused on extracting perception and sentiment from images using Multimodal LLMs (MLLMs) and fine-tuning. Feel free to explore some personal open-source projects.
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neemiasbsilva&show_icons=true&background=000000&line_height=31&theme=dark)-->
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neemiasbsilva&theme=dark&background=000000)](https://git.io/streak-stats) -->
