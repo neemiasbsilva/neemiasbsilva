@@ -4,6 +4,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -39,12 +40,24 @@ OLDER_PAPERS = [
 ]
 
 
-def fetch(url, headers=None):
-    """GET url and return the raw response body."""
+def fetch(url, headers=None, retries=3, backoff=5):
+    """GET url and return the raw response body.
+
+    Retries on timeouts and 5xx responses, since the arXiv and GitHub APIs
+    occasionally stall or bounce a request under load. Retrying here absorbs
+    that transient flakiness instead of letting it fail the whole build.
+    """
     request = urllib.request.Request(url, headers=headers or {})
     request.add_header("User-Agent", f"{USER}-profile-readme")
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return response.read()
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return response.read()
+        except (TimeoutError, urllib.error.URLError) as error:
+            is_client_error = isinstance(error, urllib.error.HTTPError) and error.code < 500
+            if is_client_error or attempt == retries - 1:
+                raise
+            time.sleep(backoff * (attempt + 1))
 
 
 def fetch_papers():
