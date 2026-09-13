@@ -35,5 +35,7 @@ jobs:
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "README-bot"
           git add -A
-          git commit -m "Updated content" || exit 0
+          git commit -m "Updated content
+
+          Co-authored-by: neemiasbsilva <neemiasbsilva@gmail.com>" || exit 0
           git push
