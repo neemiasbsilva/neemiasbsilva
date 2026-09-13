@@ -43,9 +43,11 @@ OLDER_PAPERS = [
 def fetch(url, headers=None, retries=3, backoff=5):
     """GET url and return the raw response body.
 
-    Retries on timeouts and 5xx responses, since the arXiv and GitHub APIs
-    occasionally stall or bounce a request under load. Retrying here absorbs
-    that transient flakiness instead of letting it fail the whole build.
+    Retries on timeouts, 429s and 5xx responses, since the arXiv and GitHub
+    APIs occasionally stall, rate-limit or bounce a request under load.
+    Retrying here absorbs that transient flakiness instead of letting it
+    fail the whole build. Other 4xx responses mean the request itself is
+    wrong, so those raise immediately instead of retrying.
     """
     request = urllib.request.Request(url, headers=headers or {})
     request.add_header("User-Agent", f"{USER}-profile-readme")
@@ -54,10 +56,17 @@ def fetch(url, headers=None, retries=3, backoff=5):
             with urllib.request.urlopen(request, timeout=30) as response:
                 return response.read()
         except (TimeoutError, urllib.error.URLError) as error:
-            is_client_error = isinstance(error, urllib.error.HTTPError) and error.code < 500
-            if is_client_error or attempt == retries - 1:
+            is_bad_request = (
+                isinstance(error, urllib.error.HTTPError)
+                and error.code < 500
+                and error.code != 429
+            )
+            if is_bad_request or attempt == retries - 1:
                 raise
-            time.sleep(backoff * (attempt + 1))
+            wait = backoff * (attempt + 1)
+            if isinstance(error, urllib.error.HTTPError) and error.code == 429:
+                wait = max(wait, int(error.headers.get("Retry-After", 0)))
+            time.sleep(wait)
 
 
 def fetch_papers():
