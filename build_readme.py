@@ -167,12 +167,13 @@ def replace_chunk(content, marker, chunk):
 def main():
     """Rewrite each section, keeping the previous text when a source fails.
 
-    A section whose source is unreachable keeps its existing content and the
-    process exits non-zero, so an outage turns the build badge red instead of
-    blanking a live section of the profile.
+    arXiv and GitHub are both prone to transient outages and rate limits
+    (arXiv in particular tends to 429 shared CI IP ranges, which a short
+    retry can't reliably outlast), so a section whose source is unreachable
+    just keeps its existing content and logs a warning rather than failing
+    the whole build.
     """
     content = README.read_text()
-    failed = False
 
     for marker, fetcher, renderer in (
         ("papers", fetch_papers, render_papers),
@@ -182,11 +183,9 @@ def main():
             content = replace_chunk(content, marker, renderer(fetcher()))
         except (urllib.error.URLError, ET.ParseError, ValueError, KeyError, OSError) as error:
             print(f"warning: keeping existing {marker} section: {error}", file=sys.stderr)
-            failed = True
 
     README.write_text(content)
-    return 1 if failed else 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()

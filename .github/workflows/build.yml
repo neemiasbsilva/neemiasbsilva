@@ -23,8 +23,6 @@ jobs:
           python-version: '3.13'
 
       - name: Update README
-        id: update
-        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -39,7 +37,3 @@ jobs:
           git add -A
           git commit -m "Updated content" || exit 0
           git push
-
-      - name: Fail if a source could not be fetched
-        if: steps.update.outcome == 'failure'
-        run: exit 1
