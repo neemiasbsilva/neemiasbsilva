@@ -24,17 +24,17 @@ More on [Google Scholar](https://scholar.google.com/citations?user=equ6V_MAAAAJ&
 
 ### Recent projects
 <!-- projects starts -->
-[MLLMs-persona-evaluation](https://github.com/neemiasbsilva/MLLMs-persona-evaluation) - 2026-08-13  
-Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment Perception
+[MLLMs-Teoria-e-Pratica](https://github.com/neemiasbsilva/MLLMs-Teoria-e-Pratica) - 2026-09-11  
+Explore the fundamentals of MLLMs and emblematic models. This repository covers practical techniques for…
+
+[multimodal-LLMs-see-sentiment](https://github.com/neemiasbsilva/multimodal-LLMs-see-sentiment) - 2026-08-23  
+Multimodal LLMs see sentiment better through description than by direct classification. 95.8% F1 on…
+
+[MLLMs-persona-evaluation](https://github.com/neemiasbsilva/MLLMs-persona-evaluation) - 2026-08-23  
+Persona-conditioned multimodal LLM agents for urban sentiment perception: stable behavior, limited variation.…
 
 [MLLM-Persona-Agent-Studio](https://github.com/neemiasbsilva/MLLM-Persona-Agent-Studio) - 2026-08-11  
-A local-first, bring-your-own-key desktop tool for rapid persona-based evaluation and annotation with…
-
-[multimodal-LLMs-see-sentiment](https://github.com/neemiasbsilva/multimodal-LLMs-see-sentiment) - 2026-08-11  
-A research framework for investigating sentiment reasoning in multimoda LLMs (MLLMs). It provides end-to-end…
-
-[MLLMs-Teoria-e-Pratica](https://github.com/neemiasbsilva/MLLMs-Teoria-e-Pratica) - 2026-03-06  
-Explore the fundamentals of MLLMs and emblematic models. This repository covers practical techniques for…
+PersonaAgent Studio: a local-first, bring-your-own-key desktop app (Tauri + React) for persona-conditioned…
 
 [case-study-data-science](https://github.com/neemiasbsilva/case-study-data-science) - 2025-12-30  
 Welcome to some case study of data science projects - (Personal Projects).
