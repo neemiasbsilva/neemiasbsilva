@@ -24,6 +24,9 @@ More on [Google Scholar](https://scholar.google.com/citations?user=equ6V_MAAAAJ&
 
 ### Recent projects
 <!-- projects starts -->
+[Persona-Interpretive-Analysis](https://github.com/neemiasbsilva/Persona-Interpretive-Analysis) - 2026-09-17  
+Analyzing how persona prompting shapes descriptive grounding and interpretive framing in multimodal urban…
+
 [MLLMs-Teoria-e-Pratica](https://github.com/neemiasbsilva/MLLMs-Teoria-e-Pratica) - 2026-09-11  
 Explore the fundamentals of MLLMs and emblematic models. This repository covers practical techniques for…
 
@@ -35,9 +38,6 @@ Persona-conditioned multimodal LLM agents for urban sentiment perception: stable
 
 [MLLM-Persona-Agent-Studio](https://github.com/neemiasbsilva/MLLM-Persona-Agent-Studio) - 2026-08-11  
 PersonaAgent Studio: a local-first, bring-your-own-key desktop app (Tauri + React) for persona-conditioned…
-
-[case-study-data-science](https://github.com/neemiasbsilva/case-study-data-science) - 2025-12-30  
-Welcome to some case study of data science projects - (Personal Projects).
 <!-- projects ends -->
 More on [GitHub](https://github.com/neemiasbsilva?tab=repositories)
 
