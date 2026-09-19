@@ -21,8 +21,14 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 
 SKIP_REPOS = {USER}
 
-PAPER_LINKS = {
-    "2604.28048": "https://minds-lab-utfpr.github.io/MLLMs-persona-evaluation/",
+PAPER_OVERRIDES = {
+    "2604.28048": {
+        "url": "https://minds-lab-utfpr.github.io/MLLMs-persona-evaluation/",
+    },
+    "2605.29064": {
+        "url": "https://minds-lab-utfpr.github.io/Persona-Interpretive-Analysis/",
+        "date": "2026-08-07",
+    },
 }
 
 OLDER_PAPERS = [
@@ -76,7 +82,8 @@ def fetch_papers():
     since arXiv also indexes an unrelated Neemias Martins. Links point at
     the versionless abstract page so they survive a new revision, and dates
     come from first submission so a revision cannot reorder the list.
-    PAPER_LINKS redirects individual papers to a project page instead.
+    PAPER_OVERRIDES redirects an individual paper to its project page and
+    pins its date where the arXiv submission date is not the one to show.
 
     OLDER_PAPERS covers the two pre-2021 papers the arXiv API does not
     return. They are published and final, so they are held here rather than
@@ -99,10 +106,10 @@ def fetch_papers():
             continue
         url = re.sub(r"v\d+$", "", entry.findtext(f"{ATOM}id", ""))
         url = url.replace("http://arxiv.org/", "https://arxiv.org/", 1)
-        url = PAPER_LINKS.get(url.rsplit("/", 1)[-1], url)
+        override = PAPER_OVERRIDES.get(url.rsplit("/", 1)[-1], {})
         title = " ".join(entry.findtext(f"{ATOM}title", "").split())
         date = entry.findtext(f"{ATOM}published", "")[:10]
-        papers.append((title, url, date))
+        papers.append((title, override.get("url", url), override.get("date", date)))
 
     papers.extend(OLDER_PAPERS)
     papers.sort(key=lambda paper: paper[2], reverse=True)

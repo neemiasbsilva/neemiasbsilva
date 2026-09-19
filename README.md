@@ -6,7 +6,7 @@ More at [neemiasbuceli.dev](https://neemiasbuceli.dev)
 
 ### Papers
 <!-- papers starts -->
-[Persona Prompting in Multimodal Urban Perception: Descriptive Convergence and Interpretive Variation](https://arxiv.org/abs/2605.29064) - 2026-05-27
+[Persona Prompting in Multimodal Urban Perception: Descriptive Convergence and Interpretive Variation](https://minds-lab-utfpr.github.io/Persona-Interpretive-Analysis/) - 2026-08-07
 
 [Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment Perception](https://minds-lab-utfpr.github.io/MLLMs-persona-evaluation/) - 2026-04-30
 
@@ -24,7 +24,7 @@ More on [Google Scholar](https://scholar.google.com/citations?user=equ6V_MAAAAJ&
 
 ### Recent projects
 <!-- projects starts -->
-[Persona-Interpretive-Analysis](https://github.com/neemiasbsilva/Persona-Interpretive-Analysis) - 2026-09-17  
+[Persona-Interpretive-Analysis](https://github.com/neemiasbsilva/Persona-Interpretive-Analysis) - 2026-09-19  
 [EMNLP 2026 Workshop Pandora] Persona Prompting in Multimodal Urban Perception: Descriptive Convergence and…
 
 [MLLMs-Teoria-e-Pratica](https://github.com/neemiasbsilva/MLLMs-Teoria-e-Pratica) - 2026-09-11  
@@ -34,7 +34,7 @@ Explore the fundamentals of MLLMs and emblematic models. This repository covers 
 Multimodal LLMs see sentiment better through description than by direct classification. 95.8% F1 on…
 
 [MLLMs-persona-evaluation](https://github.com/neemiasbsilva/MLLMs-persona-evaluation) - 2026-08-23  
-Persona-conditioned multimodal LLM agents for urban sentiment perception: stable behavior, limited variation.…
+[DCOSS-IoT 2026 22nd] Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment…
 
 [MLLM-Persona-Agent-Studio](https://github.com/neemiasbsilva/MLLM-Persona-Agent-Studio) - 2026-08-11  
 PersonaAgent Studio: a local-first, bring-your-own-key desktop app (Tauri + React) for persona-conditioned…
