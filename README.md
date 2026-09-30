@@ -6,6 +6,8 @@ More at [neemiasbuceli.dev](https://neemiasbuceli.dev)
 
 ### Papers
 <!-- papers starts -->
+[Population Fidelity: Evaluating Population Representativeness in LLMs](https://arxiv.org/abs/2609.36253) - 2026-09-28
+
 [Persona Prompting in Multimodal Urban Perception: Descriptive Convergence and Interpretive Variation](https://minds-lab-utfpr.github.io/Persona-Interpretive-Analysis/) - 2026-08-07
 
 [Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment Perception](https://minds-lab-utfpr.github.io/MLLMs-persona-evaluation/) - 2026-04-30
