@@ -26,6 +26,9 @@ More on [Google Scholar](https://scholar.google.com/citations?user=equ6V_MAAAAJ&
 
 ### Recent projects
 <!-- projects starts -->
+[CultureFinetuneSteerMLLM](https://github.com/neemiasbsilva/CultureFinetuneSteerMLLM) - 2026-09-27  
+This repository complements Population Fidelity: Evaluating Population Representativeness in LLMs. (Main…
+
 [Persona-Interpretive-Analysis](https://github.com/neemiasbsilva/Persona-Interpretive-Analysis) - 2026-09-19  
 [EMNLP 2026 Workshop Pandora] Persona Prompting in Multimodal Urban Perception: Descriptive Convergence and…
 
@@ -37,9 +40,6 @@ Multimodal LLMs see sentiment better through description than by direct classifi
 
 [MLLMs-persona-evaluation](https://github.com/neemiasbsilva/MLLMs-persona-evaluation) - 2026-08-23  
 [DCOSS-IoT 2026 22nd] Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment…
-
-[MLLM-Persona-Agent-Studio](https://github.com/neemiasbsilva/MLLM-Persona-Agent-Studio) - 2026-08-11  
-PersonaAgent Studio: a local-first, bring-your-own-key desktop app (Tauri + React) for persona-conditioned…
 <!-- projects ends -->
 More on [GitHub](https://github.com/neemiasbsilva?tab=repositories)
 
