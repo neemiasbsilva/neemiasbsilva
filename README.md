@@ -26,7 +26,7 @@ More on [Google Scholar](https://scholar.google.com/citations?user=equ6V_MAAAAJ&
 
 ### Recent projects
 <!-- projects starts -->
-[CultureFinetuneSteerMLLM](https://github.com/neemiasbsilva/CultureFinetuneSteerMLLM) - 2026-09-27  
+[CultureFinetuneSteerMLLM](https://github.com/neemiasbsilva/CultureFinetuneSteerMLLM) - 2026-11-10  
 This repository complements Population Fidelity: Evaluating Population Representativeness in LLMs. (Main…
 
 [Persona-Interpretive-Analysis](https://github.com/neemiasbsilva/Persona-Interpretive-Analysis) - 2026-09-19  
