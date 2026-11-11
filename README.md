@@ -26,6 +26,9 @@ More on [Google Scholar](https://scholar.google.com/citations?user=equ6V_MAAAAJ&
 
 ### Recent projects
 <!-- projects starts -->
+[multimodal-LLMs-see-sentiment](https://github.com/neemiasbsilva/multimodal-LLMs-see-sentiment) - 2026-11-10  
+Multimodal LLMs see sentiment better through description than by direct classification. 95.8% F1 on…
+
 [CultureFinetuneSteerMLLM](https://github.com/neemiasbsilva/CultureFinetuneSteerMLLM) - 2026-11-10  
 This repository complements Population Fidelity: Evaluating Population Representativeness in LLMs. (Main…
 
@@ -34,9 +37,6 @@ This repository complements Population Fidelity: Evaluating Population Represent
 
 [MLLMs-Teoria-e-Pratica](https://github.com/neemiasbsilva/MLLMs-Teoria-e-Pratica) - 2026-09-11  
 [WebMedia 2025] Explore the fundamentals of MLLMs and emblematic models. This repository covers practical…
-
-[multimodal-LLMs-see-sentiment](https://github.com/neemiasbsilva/multimodal-LLMs-see-sentiment) - 2026-08-23  
-Multimodal LLMs see sentiment better through description than by direct classification. 95.8% F1 on…
 
 [MLLMs-persona-evaluation](https://github.com/neemiasbsilva/MLLMs-persona-evaluation) - 2026-08-23  
 [DCOSS-IoT 2026 22nd] Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment…
